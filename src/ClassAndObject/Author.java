@@ -1,5 +1,6 @@
 package ClassAndObject;
 
+
 public class Author {
     private String nameAuthorFirst;
     private String nameAuthorSecond;
@@ -18,3 +19,4 @@ public class Author {
     }
 
 }
+
